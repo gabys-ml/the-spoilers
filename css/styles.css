@@ -1,0 +1,86 @@
+body{
+    background-image: url("../img/ep_naturalwhite.png");
+    background-attachment: fixed;       
+
+}
+.navbar {
+    background-color: #4c7190;
+    padding: 0;
+  }
+#header-logo {
+  width:50px; 
+  height:40px;
+}
+  .nav-link a {
+  color: #ffffff;
+}
+
+.btn-contacto {
+  background-color: #bc7db4;
+  color:#ffffff;
+}
+
+  .top {
+    margin-top: 80px;
+    margin-bottom: 150px;
+  }
+
+/*.background-middle {
+      background-color: rgb(81, 66, 79);
+      padding-top: 50px;
+     
+  }*/
+
+  .shows {
+    margin-top: 50px;
+  }
+
+  .table {
+    background-color: #a6c1bd;
+    opacity: 0.90;
+
+  }
+
+  .stripped-1 {
+    background-color: #a6c1bd;
+  }
+
+  .stripped-2 {
+    background-color: #b7a6b4;
+  }
+
+  .bottom {
+    margin-top: 150px; 
+    margin-bottom: 100px;
+  }
+
+  .card-title {
+    text-align: center;
+    color: #bc7db4;
+  }
+  .foot {
+    background-color: #4c7190;
+    margin-top: 50px;
+  }
+  
+  .copyright {
+    color: #ffffff;
+  }
+  .icons a {
+    font-size: 20px;
+    color: #ffffff;
+  }
+  
+  .icons {
+    font-size: 30px;
+    color: #000000;
+  
+  }
+  
+  .valid {
+    border:solid 1px #9ee79e;
+}
+
+  .not-valid {
+    border:solid 1px #f76161;
+}
